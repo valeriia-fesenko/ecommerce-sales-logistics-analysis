@@ -78,4 +78,4 @@ I'd be happy if you explored the dashboard and shared your feedback.
 
 ## 📂 Project Files
 
-* [Power BI Dashboard (.pbix)](Fesenko_Project.pbix)
+* [Power BI Dashboard (.pbix)](Fesenko Project.pbix)
